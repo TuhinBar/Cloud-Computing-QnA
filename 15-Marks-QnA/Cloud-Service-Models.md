@@ -1,4 +1,6 @@
-# Cloud Computing Service Models: SaaS | PaaS | IaaS
+# Q. Compare the three service models of cloud computing usinf suitable examples and explainations. (MAKAUT 2019)
+
+## Cloud Computing Service Models: SaaS | PaaS | IaaS
 
 ## *What is Cloud Computing?*
 Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services). This cloud model is composed of five essential characteristics, three service models, and four deployment models.
