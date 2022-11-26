@@ -1,4 +1,4 @@
-# Q. Compare the three service models of cloud computing usinf suitable examples and explainations. (MAKAUT 2019)
+# Q. Compare the three service models of cloud computing using suitable examples and explainations. (MAKAUT 2019)
 
 ## Cloud Computing Service Models: SaaS | PaaS | IaaS
 
