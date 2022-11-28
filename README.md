@@ -17,7 +17,7 @@
 - *[5 marks (2019)](https://github.com/TuhinBar/Cloud-Computing-QnA/tree/main/5-Marks-QnA#makaut-2019)*
 - *[5 marks (2018)]*
 
-- [MCQ 2019]
+- [MCQ 2019](https://github.com/TuhinBar/Cloud-Computing-QnA/blob/main/MCQ/MCQ2019.md)
 - [MCQ 2018]
 
 ### To visit marks wise questions :
