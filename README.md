@@ -23,4 +23,4 @@
 ### To visit marks wise questions :
 - *[15 Marks](https://github.com/TuhinBar/Cloud-Computing-QnA/tree/main/15-Marks-QnA)*
 - *[5 marks](https://github.com/TuhinBar/Cloud-Computing-QnA/tree/main/5-Marks-QnA)*
-- *[MCQ]*
+- *[MCQ](https://github.com/TuhinBar/Cloud-Computing-QnA/blob/main/MCQ)*
