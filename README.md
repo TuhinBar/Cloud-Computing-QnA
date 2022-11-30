@@ -6,7 +6,7 @@
 </div>
 
 - This repository contains theoritical exams questions for cloud computing. 
-- This repo contains 2 years of examinations questions(2018 & 2019) from MAKAUT (Maulana Abul Kalam Azad University of Technology)
+- This repo contains 2 years of examination questions(2018 & 2019) from MAKAUT (Maulana Abul Kalam Azad University of Technology)
 
 ## Links
 
