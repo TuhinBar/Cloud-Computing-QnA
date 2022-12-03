@@ -22,7 +22,7 @@ IaaS cloud computing platform layer eliminates the need for every organization t
 
 ### Reduce Capital Expenditure
 
-Reducing capital expenditure is one of the key drivers
+- Reducing capital expenditure is one of the key drivers
 behind data center cloud migration. By employing
 cloud-based data centers, organizations only pay for the
 resources they consume and save time and money by
@@ -31,7 +31,7 @@ an expensive on-premises infrastructure.
 
 ### Lower Ongoing Costs
 
-The cloud offers substantial economies of scale and
+- The cloud offers substantial economies of scale and
 efficiency improvements, which allow cloud platform
 providers to continually lower prices. By taking
 advantage of multiple pricing models, including hourly
@@ -40,7 +40,7 @@ variable and stable workloads
 
 ### Improve Scalability & Elasticity
 
-The cloud allows organizations to provision only the
+- The cloud allows organizations to provision only the
 amount of resources they need and easily scale up or
 down as required. This enables organizations to ensure
 expensive resources are not sitting idle and eliminates the
@@ -49,7 +49,7 @@ hardware restrictions.
 
 ### Improve Time-to-Market
 
-In a cloud computing environment, new IT resources
+- In a cloud computing environment, new IT resources
 are very easy to commission, significantly reducing the
 time it takes organizations to make those resources
 available to developers from weeks to just minutes. This
@@ -64,7 +64,7 @@ maximum speed.
 
 ### Focus on Core Business
 
-With the reduced need for an organization’s IT
+- With the reduced need for an organization’s IT
 department to be involved with the heavy lifting of
 racking, stacking, and powering servers, resources are
 freed up to focus on the organization’s own
@@ -76,7 +76,7 @@ to compete.
 
 ### Security and Compliance
 
-Despite the common misconception that a cloud
+- Despite the common misconception that a cloud
 environment is less secure, strategic goals in relation to
 security and compliance are often key drivers to migrate
 data centers to the cloud. The major cloud platform
