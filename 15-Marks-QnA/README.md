@@ -8,6 +8,6 @@
 
 ### [3. What is software-as-a-Service(SaaS) and what are the main characteristics of SaaS solution? Describes through a schematic diagram and necessary explanations how XML and SOA is used to implement an Open SaaS enviroment. (3 +3 + 9)](https://github.com/TuhinBar/Cloud-Computing-QnA/blob/main/15-Marks-QnA/SaaS.md)
 
-## MAKAUT 2019
+## MAKAUT 2018
 
 ### [1. What is the life cycle of cloud computing? Explain. Write about NSIT model. (7+8)]()
