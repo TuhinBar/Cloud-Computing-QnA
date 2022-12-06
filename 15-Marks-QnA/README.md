@@ -10,4 +10,4 @@
 
 ## MAKAUT 2018
 
-### [1. What is the life cycle of cloud computing? Explain. Write about NSIT model. (7+8)]()
+### [1. What is the life cycle of cloud computing? Explain. Write about NSIT model. (7+8)](https://github.com/TuhinBar/Cloud-Computing-QnA/blob/main/15-Marks-QnA/life-cycle.md)
