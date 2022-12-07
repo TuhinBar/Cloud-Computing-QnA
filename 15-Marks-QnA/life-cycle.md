@@ -168,3 +168,5 @@ Community clouds are common in government, healthcare, and education; for use ca
 
 ### The Benefits of NIST’s Cloud Computing Definition
 NIST’s cloud computing definition allows organizations to compare various cloud services and deployment strategies. A deep understanding of this definition can help organizations better appreciate the benefits of this technology, implement NIST compliance best practices, and guide decision-makers to make optimal cloud investment decisions
+
+### Source : [GFG](https://www.geeksforgeeks.org/life-cycle-of-cloud-computing-solution/)
